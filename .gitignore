@@ -1,0 +1,12 @@
+WebRoot/META-INF
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+.mymetadata
+
+# Java class files
+*.class
+
+.DS_Store
